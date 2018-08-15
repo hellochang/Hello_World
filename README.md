@@ -1,3 +1,3 @@
-# Hello_World
+# Hello World
 
-The well-known tradition of the programming community
+That well-known tradition of the programming community :)
